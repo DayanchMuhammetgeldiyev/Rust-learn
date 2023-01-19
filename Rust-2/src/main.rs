@@ -16,4 +16,12 @@ fn main() {
     // } else   {
     //     println!("True")
     // }
+
+let mut n = 0;
+
+loop{
+   n +=1;
+}
+
+
 }
